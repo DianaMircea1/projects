@@ -1,0 +1,1 @@
+//aici se scriu functiile care apeleaza backend-ul pentru audit
